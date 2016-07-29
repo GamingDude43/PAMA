@@ -1,0 +1,29 @@
+{
+  "name": "pama",
+  "version": "1.0.0",
+  "description": "To make everyone useful.",
+  "main": "mybot.js",
+  "dependencies": {
+    "cleverbot-node": "^0.2.2",
+    "discord.io": "^1.13.4",
+    "discord.js": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hydrabolt/discord.js.git"
+  },
+  "keywords": [
+    "PAMA",
+    "pama"
+  ],
+  "author": "GamingDude43",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hydrabolt/discord.js/issues"
+  },
+  "homepage": "https://github.com/hydrabolt/discord.js#readme"
+}
